@@ -92,12 +92,6 @@ For any questions, please contact me:
 
 A walkthrough video demonstrating the functionality of the application will be added here.
 
+scroll all the way down on the submission to check out walkthrough video
 
-
-
-
-
-
-
-
-
+https://bootcampspot.instructure.com/courses/6753/assignments/90873#submit
