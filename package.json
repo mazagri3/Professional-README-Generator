@@ -1,16 +1,20 @@
 {
-  "name": "professional-readme-generator",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "A command-line application that dynamically generates a professional README.md file from a user's input. This application allows project creators to devote more time to working on their projects by automating the README creation process.",
+  "main": "index.js",
   "type": "module",
-  "main": "Develop/index.js",
   "scripts": {
-    "start": "node Develop/index.js"
+    "test": "jest"
   },
-  "keywords": ["readme", "generator", "node.js"],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "@babel/preset-env": "^7.24.0"
   }
 }
